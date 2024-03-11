@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # <font color='orange'>Machine Learning for Stock Index Predictions</font>
-# This code is an implementation of a Bachelor's thesis titled Machine Learning for Stock Index Predictions.
-# 
-# <br>
-# 
-# **Author:** Matej Šembera
-# 
-# **Date:** 1.2.2024
-
-# ## <font color='orange'>Importing libraries and data</font>
 
 # In[1]:
 
