@@ -1,0 +1,10 @@
+Here are dashboards I created in Tableau.
+Please view them in full-screen mode to ensure the visualizations are displayed properly.
+
+Visualization of Historical Plovdiv
+1. Visualization of Quarters - https://public.tableau.com/views/Plovdiv_polygons/Polygons?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+2. Visualization of Social Changes - https://public.tableau.com/shared/ZWQDZC5CY?:display_count=n&:origin=viz_share_link
+
+Dashboards for the course "Visual and Exploratory Data Analysis" at the University of Vienna (Grade: A)
+1. UN Dashboard - https://public.tableau.com/views/UN_dashboard_sembera/UN_commision?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+2. WFI Dashboard - https://public.tableau.com/views/WFI_dashboard_sembera/WFI_activists?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
