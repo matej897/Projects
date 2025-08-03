@@ -2,7 +2,7 @@ Here are dashboards I created in Tableau.
 Please view them in full-screen mode to ensure the visualizations are displayed properly.
 The full projects are available in the projects repository under the filenames visualization_of_plovdiv_in_tableau.pdf and ve_course_tableau_dashboards.pdf.
 
-Visualization of Historical Plovdiv
+Visualization of Historical Plovdiv - Dashboards for the course Ottoman Cities (Grade: A)
 1. Visualization of Quarters - https://public.tableau.com/views/Plovdiv_polygons/Polygons?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 2. Visualization of Social Changes - https://public.tableau.com/shared/ZWQDZC5CY?:display_count=n&:origin=viz_share_link
 
